@@ -1,0 +1,95 @@
+/* Arquivos a serem importados para dentro do tema. */
+
+@import url("https://moveitbrasil.tk/users/");
+@import url("https://moveitbrasil.tk/niver-icone/");
+
+
+
+/* ----------- tira a foto do michel temer sem q fique sem o icone ------------- */
+
+#chat-messages .id-6148648 .badge-box i.bdg, .id-6148648 .no-badge i, i.bdg.bdg-dragon-g01.g .id-6148648 {
+    background-image: url(https://cdn-prod.plug.dj/_/static/images/sheets/badges_g_small.3a9d31b93a3bdeb264020a977040f58ef2b6e313.png) !important;
+background-size: auto !important;
+background-position: -240px 0 !important;
+}
+#chat-messages .id-6148648 .badge-box:hover {
+    width: 30px !important;
+    height: 30px !important;
+ }
+
+/* --------------------- BACKGROUND --------------------------------- */
+.left-side-wrapper {
+    background-position-x: center !important;
+    background-position-y: bottom !important;
+    background-repeat: no-repeat !important;
+    background-size: 1600px 900px !important;
+    max-height: 900px !important;
+background-image: url(https://moveitbrasil.tk/wp-content/uploads/2018/08/bgnoite.jpg) !important;}
+
+/* ------------- mensagem aniversariantes -----------------------------*/
+#rcs-style-anchor-2 {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    border-radius: 5px !important;
+    border: 1px solid #ffa61c !important;
+    position: absolute;
+    top: 55px;
+    right: 355px !important;
+    z-index: 9;
+    cursor: pointer;
+    height: 52px !important;
+    width: 230px !important;
+}
+#rcs-style-anchor-2:before {
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    font-family: 'fontawesome';
+    content: '\f1fd \20 Aniversariante';
+    font-size: 16px;
+    color: #ffa61c;
+}
+#rcs-style-anchor-2.toggled{ height: 35px !important; width: 135px !important;}
+#rcs-style-anchor-2.toggled:after { content: '';}
+#rcs-style-anchor-2:after {
+    content: 'Ninguém faz aniversário hoje =( ';
+    margin: 30px 0px 0px 10px;
+    position: absolute;
+}
+																																																																																																																																																																																																																																																																																																																																																																																																																																											
+/*------------------------------ */ 
+ 
+/* ------- banner de evento na sala ------- */
+    
+#rcs-style-anchor-1 {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    border-radius: 5px !important;
+    border: 1px solid #ffa61c !important;
+    position: absolute;
+    height: 30px !important; 
+    height: 52px !important;
+    width: 230px !important;
+    top: 55px;
+    z-index: 9;
+    cursor: pointer;
+    top: 180px;
+    right: 355px !important;
+}
+#rcs-style-anchor-1:before {
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    font-family: 'fontawesome';
+    content: '\f073 \20 Evento';
+    font-size: 16px;
+    color: #ffa61c;
+}
+
+#rcs-style-anchor-1:after {
+    content: 'Nenhum evento agendado ';
+    margin: 30px 0px 0px 10px;
+    position: absolute;
+}
+#rcs-style-anchor-1.toggled { height: 35px !important; width: 85px !important;}
+#rcs-style-anchor-1.toggled:after { content: '';}
