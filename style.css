@@ -1014,8 +1014,11 @@
     margin-left:305px;
     max-width:475px!important
 }
+
+/* Logo da sala */
+
 .community__playback-meta--desktop:after{
-    content:url(https://banner2.kisspng.com/20180611/uyz/kisspng-logo-font-mini-logo-5b1f28030f1e96.5443799615287685150619.jpg);
+    content:url(https://i.imgur.com/Iyb4A8r.png);
     position:absolute;
     margin-top:5px;
     margin-left:36vw;
