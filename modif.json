@@ -2,7 +2,7 @@
     "room": "Abacatinhos",
     "author": "Kitsoei",
     "icon": null,
-    "css": "https://raw.githack.com/haykirian/css/master/style.css",
+    "css": "https://raw.githack.com/clairobubble/css/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
