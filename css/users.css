@@ -311,7 +311,7 @@
 }
 /* MorenaBranca */
  #chat-messages .id-36880766 .badge-box i.bdg, .id-36880766 .no-badge i {
-     background-image: url(https://media.discordapp.net/attachments/564412505699647493/662664085334392862/ezgif.com-crop_3.gif);
+     background-image: url("https://media.discordapp.net/attachments/564412505699647493/662664085334392862/ezgif.com-crop_3.gif");
      background-size: cover;
      width: 100%;
      height: 100%;
