@@ -1,0 +1,2586 @@
+/* ----- ajusta a foto, tira a borda cinza e deixa maior ---- */
+#chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;}
+
+/* ZOOM */
+
+/* Move It Bot */
+ #chat-messages .id-5394376 .badge-box:hover ,
+/* Feluz */
+ #chat-messages .id-3839549 .badge-box:hover ,
+/* Shadow Slayer */
+ #chat-messages .id-4080795 .badge-box:hover ,
+/* -Branca de Neve- */
+ #chat-messages .id-6511093 .badge-box:hover ,
+/* Eduarda Сorrea */
+ #chat-messages .id-5401598 .badge-box:hover ,
+/* Bactéria */
+ #chat-messages .id-5039941 .badge-box:hover ,
+/* Awayshift */
+ #chat-messages .id-1380997 .badge-box:hover ,
+/* Luquinhas */
+ #chat-messages .id-5765109 .badge-box:hover ,
+/* Agua */
+ #chat-messages .id-631725 .badge-box:hover ,
+/* Mtos */
+ #chat-messages .id-4656127 .badge-box:hover ,
+/* -Sabotage- */
+ #chat-messages .id-3851265 .badge-box:hover ,
+/* BelaAdormecidaXV */
+ #chat-messages .id-4185032 .badge-box:hover ,
+/* Zol */
+ #chat-messages .id-3810631 .badge-box:hover ,
+/* Gunnerdead */
+ #chat-messages .id-4103684 .badge-box:hover ,
+/* -Dashing Love */
+ #chat-messages .id-4925119 .badge-box:hover ,
+/* InXanity */
+ #chat-messages .id-4404834 .badge-box:hover ,
+/* Daynana */
+ #chat-messages .id-20472203 .badge-box:hover ,
+/* -gαℓαxy */
+ #chat-messages .id-12601578 .badge-box:hover ,
+/* line */
+ #chat-messages .id-24098438 .badge-box:hover ,
+/* Eu to */
+ #chat-messages .id-19163004 .badge-box:hover ,
+/* ThalesXCX */
+ #chat-messages .id-3781336 .badge-box:hover ,
+/* teste */
+ #chat-messages .id-1 .badge-box:hover ,
+/* 🅶🅰🅱🆁🅸🅴🅻 🎧 */
+ #chat-messages .id-3818636 .badge-box:hover ,
+/* 😁❤️Liil-Uzi-Vert-❤️😁 */
+ #chat-messages .id-29873102 .badge-box:hover ,
+/* Felipenor */
+ #chat-messages .id-28664768 .badge-box:hover ,
+/* Matheushbb26 */
+ #chat-messages .id-31403444 .badge-box:hover ,
+/* General Blue */
+ #chat-messages .id-5818382 .badge-box:hover ,
+/* ▲๖ۣۜDaniel๖ۣۜMcCartney▲ */
+ #chat-messages .id-3742812 .badge-box:hover ,
+/* Aw, Schnx爱! */
+ #chat-messages .id-21759495 .badge-box:hover ,
+/* ArapucaMan */
+ #chat-messages .id-3180606 .badge-box:hover ,
+/* D0RIT0S */
+ #chat-messages .id-3905933 .badge-box:hover ,
+/* Apoena */
+ #chat-messages .id-29992149 .badge-box:hover ,
+/* sousabiiel :) */
+ #chat-messages .id-4031228 .badge-box:hover ,
+/* Arunu */
+ #chat-messages .id-30107056 .badge-box:hover ,
+/* Leandrohp009 */
+ #chat-messages .id-30992159 .badge-box:hover ,
+/* ＱＵ3 Ｐ3ＤＲ4Ｄ4 */
+ #chat-messages .id-4673269 .badge-box:hover ,
+/* Andyzinha */
+ #chat-messages .id-36842528 .badge-box:hover ,
+/* ŁƗŁ ƤΔΜƤ€Ř2 */
+ #chat-messages .id-30962958 .badge-box:hover ,
+/* Kim Chul */
+ #chat-messages .id-21755082 .badge-box:hover ,
+/* krishnasukaa */
+ #chat-messages .id-36050958 .badge-box:hover ,
+/* Cupcakei */
+ #chat-messages .id-3708021 .badge-box:hover ,
+/* ☥ ANJINHO TV ☥ */
+ #chat-messages .id-32291773 .badge-box:hover ,
+/* YEZZY */
+ #chat-messages .id-33479737 .badge-box:hover ,
+/* WiredD */
+ #chat-messages .id-24234242 .badge-box:hover ,
+/* ♛♰Ҝҽѵӣ♰♛ */
+ #chat-messages .id-4733063 .badge-box:hover ,
+/* OCEAN_X */
+ #chat-messages .id-5887115 .badge-box:hover ,
+/* Coronel Silver */
+ #chat-messages .id-0247 .badge-box:hover ,
+/* lil xanax */
+ #chat-messages .id-866897 .badge-box:hover ,
+/* .Vinnycius - Este é você */
+ #chat-messages .id-23299266 .badge-box:hover ,
+/* TemerGOD */
+ #chat-messages .id-6148648 .badge-box:hover ,
+/* Bruna_Soares */
+ #chat-messages .id-4758109 .badge-box:hover ,
+/* Areba */
+ #chat-messages .id-3466367 .badge-box:hover ,
+/* Burkyst */
+ #chat-messages .id-20574971 .badge-box:hover ,
+/* thgox */
+ #chat-messages .id-4243770 .badge-box:hover ,
+/* Tagevaldo */
+ #chat-messages .id-4385842 .badge-box:hover ,
+/* DATABASE */
+ #chat-messages .id-3926149 .badge-box:hover ,
+/* Shau */
+ #chat-messages .id-3992515 .badge-box:hover ,
+/* Naths2luna */
+ #chat-messages .id-13490254 .badge-box:hover ,
+/* Kenan */
+ #chat-messages .id-3626941 .badge-box:hover ,
+/* frostu */
+ #chat-messages .id-3998944 .badge-box:hover ,
+/* - 미나 ❣ */
+ #chat-messages .id-38741985 .badge-box:hover ,
+/* nNosapo */
+ #chat-messages .id-30563634 .badge-box:hover ,
+/* Theodore Jasper */
+ #chat-messages .id-14626270 .badge-box:hover ,
+/* AlexChargs */
+ #chat-messages .id-15968685 .badge-box:hover ,
+/* Aytax */
+ #chat-messages .id-5175148 .badge-box:hover ,
+/* MY4Z */
+ #chat-messages .id-35183292 .badge-box:hover ,
+/* Rainoldo */
+ #chat-messages .id-3045384 .badge-box:hover ,
+/* RicardoS */
+ #chat-messages .id-5336478 .badge-box:hover ,
+/* Pao De Pesadelo */
+ #chat-messages .id-3788214 .badge-box:hover ,
+/* bluberry */
+ #chat-messages .id-33369539 .badge-box:hover ,
+/* Smygou */
+ #chat-messages .id-3548312 .badge-box:hover ,
+/* Slaugord */
+ #chat-messages .id-4591828 .badge-box:hover ,
+/* País Da Europa */
+ #chat-messages .id-4178788 .badge-box:hover ,
+/* Mary Wincchester */
+ #chat-messages .id-5346070 .badge-box:hover ,
+/* Wellington Hrist */
+ #chat-messages .id-6473352 .badge-box:hover ,
+/* Smith Jonny */
+ #chat-messages .id-15050640 .badge-box:hover ,
+/* Sid */
+ #chat-messages .id-5288871 .badge-box:hover ,
+/* Caipira */
+ #chat-messages .id-3575887 .badge-box:hover ,
+/* Titinha */
+ #chat-messages .id-27852493 .badge-box:hover ,
+/* guilhermevl4i20 */
+ #chat-messages .id-5120496 .badge-box:hover ,
+/* raphaeumon */
+ #chat-messages .id-11 .badge-box:hover ,
+/* [TRAP]Zero */
+ #chat-messages .id-4229754 .badge-box:hover ,
+/* supamdennis */
+ #chat-messages .id-39742931 .badge-box:hover ,
+/* s e n s i t i v e 不同 */
+ #chat-messages .id-3851223 .badge-box:hover ,
+/* Suco de Pistola */
+ #chat-messages .id-5896399 .badge-box:hover ,
+/* supamdennis */
+ #chat-messages .id-39742931 .badge-box:hover ,
+/* SpankaCranio */
+ #chat-messages .id-3954979 .badge-box:hover ,
+/* iTheo9 */
+ #chat-messages .id-40391061 .badge-box:hover ,
+/* ceciliasilval */
+ #chat-messages .id-14936676 .badge-box:hover ,
+/* -Adriana- */
+ #chat-messages .id-4639897 .badge-box:hover ,
+/* T-Witch-S */
+ #chat-messages .id-3655442 .badge-box:hover ,
+/* vanstar */
+ #chat-messages .id-40729503 .badge-box:hover ,
+/* JoarezDaTEKPIX */
+ #chat-messages .id-4387655 .badge-box:hover ,
+/* MIB Eventos */
+ #chat-messages .id-40955957 .badge-box:hover ,
+/* O-Sem-Nick */
+ #chat-messages .id-3748602 .badge-box:hover ,
+/* FyOtti */
+ #chat-messages .id-41126160 .badge-box:hover ,
+/* Winona - Ryder */
+ #chat-messages .id-16440800 .badge-box:hover ,
+/* Chad Kensington */
+ #chat-messages .id-41187018 .badge-box:hover ,
+/* Mary Winchester */
+ #chat-messages .id-5346070 .badge-box:hover ,
+/* Mr. Mtos */
+ #chat-messages .id-32380050 .badge-box:hover ,
+/* Maside */
+ #chat-messages .id-2974552 .badge-box:hover ,
+/* M7MUD */
+ #chat-messages .id-25601551 .badge-box:hover ,
+/* Mc cirilo */
+ #chat-messages .id-6413862 .badge-box:hover ,
+/* MyNameIsPão */
+ #chat-messages .id-22611297 .badge-box:hover ,
+/* V1N3 */
+ #chat-messages .id-19168449 .badge-box:hover ,
+/* djkorekt */
+ #chat-messages .id-5365314 .badge-box:hover ,
+/* milk milk */
+ #chat-messages .id-3012 .badge-box:hover ,
+/* -&gt;
+♫Mc Rock☠&lt;
+- */
+ #chat-messages .id-21795209 .badge-box:hover ,
+/* Vivi Granger */
+ #chat-messages .id-4506860 .badge-box:hover ,
+/* Ðokz */
+ #chat-messages .id-39006170 .badge-box:hover ,
+/* Corinzika */
+ #chat-messages .id-41134463 .badge-box:hover ,
+/* LuRyo */
+ #chat-messages .id-42189473 .badge-box:hover ,
+/* Math.M */
+ #chat-messages .id-6361228 .badge-box:hover ,
+/* Wellx37 */
+ #chat-messages .id-23822530 .badge-box:hover ,
+/* Rodrigo Buson */
+ #chat-messages .id-35354879 .badge-box:hover ,
+/* elias_1 */
+ #chat-messages .id-1 .badge-box:hover ,
+/* Gabríel */
+ #chat-messages .id-43103070 .badge-box:hover ,
+/* GustavoYTDestroyer */
+ #chat-messages .id-37093948 .badge-box:hover ,
+/* SharkZoe */
+ #chat-messages .id-43408754 .badge-box:hover ,
+/* -Sagaz ♫♨ */
+ #chat-messages .id-10480247 .badge-box:hover ,
+/* Vazafirst */
+ #chat-messages .id-43797764 .badge-box:hover ,
+/* mer3nda */
+ #chat-messages .id-8 .badge-box:hover ,
+/* OIDaniel */
+ #chat-messages .id-24226993 .badge-box:hover ,
+/* Penal */
+ #chat-messages .id-46298277 .badge-box:hover ,
+/* Fake */
+ #chat-messages .id-33479737 .badge-box:hover ,
+/* 8042566 */
+ #chat-messages .id-8042566 .badge-box:hover ,
+/* minhapika */
+ #chat-messages .id-7777776 .badge-box:hover ,
+/* LilypadOfCluck */
+ #chat-messages .id-32291773 .badge-box:hover ,
+/* LilypadOfCluck */
+ #chat-messages .id-32291773 .badge-box:hover ,
+/* N E C T A R */
+ #chat-messages .id-48256578 .badge-box:hover ,
+/* nome-padrao */
+ #chat-messages .id-00000000 .badge-box:hover {
+     width: 65px;
+     height: 65px;
+     transition: 0.5s;
+}
+
+ /* FOTOS */
+ 
+ /* Move It Bot */
+ #chat-messages .id-5394376 .badge-box i.bdg, .id-5394376 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/1/5a73c82962bd4-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Feluz */
+ #chat-messages .id-3839549 .badge-box i.bdg, .id-3839549 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/681557ed224ed2027533bd41f38faac7?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Shadow Slayer */
+ #chat-messages .id-4080795 .badge-box i.bdg, .id-4080795 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/3/5a7329a9ef379-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -Branca de Neve- */
+ #chat-messages .id-6511093 .badge-box i.bdg, .id-6511093 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/19/5b97ad15cc2af-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Eduarda Сorrea */
+ #chat-messages .id-5401598 .badge-box i.bdg, .id-5401598 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/21/5b7afaa2654ff-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Bactéria */
+ #chat-messages .id-5039941 .badge-box i.bdg, .id-5039941 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/23/5b5fd28c0cf66-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Awayshift */
+ #chat-messages .id-1380997 .badge-box i.bdg, .id-1380997 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/bd684a1dd38f4c4b0aed3e54dba0acba?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Luquinhas */
+ #chat-messages .id-5765109 .badge-box i.bdg, .id-5765109 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/31/5d6d9c5ea0ec4-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Agua */
+ #chat-messages .id-631725 .badge-box i.bdg, .id-631725 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/37/5a732451cec0a-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Mtos */
+ #chat-messages .id-4656127 .badge-box i.bdg, .id-4656127 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/39/5b8b2e4c956cf-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -Sabotage- */
+ #chat-messages .id-3851265 .badge-box i.bdg, .id-3851265 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/40/5b8a8caf9d013-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* BelaAdormecidaXV */
+ #chat-messages .id-4185032 .badge-box i.bdg, .id-4185032 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/41/5a7322d8498f4-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Zol */
+ #chat-messages .id-3810631 .badge-box i.bdg, .id-3810631 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/42/5b97cdd94d806-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Gunnerdead */
+ #chat-messages .id-4103684 .badge-box i.bdg, .id-4103684 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/49/5b7cbd9c6e1d6-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -Dashing Love */
+ #chat-messages .id-4925119 .badge-box i.bdg, .id-4925119 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/56/5c0022e893b91-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* InXanity */
+ #chat-messages .id-4404834 .badge-box i.bdg, .id-4404834 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/68/5beaeb3ceacc8-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Daynana */
+ #chat-messages .id-20472203 .badge-box i.bdg, .id-20472203 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/87/5a7326e6e4693-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -gαℓαxy */
+ #chat-messages .id-12601578 .badge-box i.bdg, .id-12601578 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/108/5bb2d5395bf90-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* line */
+ #chat-messages .id-24098438 .badge-box i.bdg, .id-24098438 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/144/5bcdc6fe23ac3-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Eu to */
+ #chat-messages .id-19163004 .badge-box i.bdg, .id-19163004 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/146/5b8966a1e55fa-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ThalesXCX */
+ #chat-messages .id-3781336 .badge-box i.bdg, .id-3781336 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/174/5b7f28448019c-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* teste */
+ #chat-messages .id-1 .badge-box i.bdg, .id-1 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/222/5b875c7e6ebf2-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* 🅶🅰🅱🆁🅸🅴🅻 🎧 */
+ #chat-messages .id-3818636 .badge-box i.bdg, .id-3818636 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/242/5b7f421bcd343-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* 😁❤️Liil-Uzi-Vert-❤️😁 */
+ #chat-messages .id-29873102 .badge-box i.bdg, .id-29873102 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/269/5b3ae192076e5-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Felipenor */
+ #chat-messages .id-28664768 .badge-box i.bdg, .id-28664768 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/314/5c409d61c7932-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Matheushbb26 */
+ #chat-messages .id-31403444 .badge-box i.bdg, .id-31403444 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/319/5b778b7476357-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* General Blue */
+ #chat-messages .id-5818382 .badge-box i.bdg, .id-5818382 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/325/5a726418161fc-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ▲๖ۣۜDaniel๖ۣۜMcCartney▲ */
+ #chat-messages .id-3742812 .badge-box i.bdg, .id-3742812 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/337/5a732606e16a1-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Aw, Schnx爱! */
+ #chat-messages .id-21759495 .badge-box i.bdg, .id-21759495 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/366/5bde3fb7594f5-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ArapucaMan */
+ #chat-messages .id-3180606 .badge-box i.bdg, .id-3180606 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/373/5a7328f6d104e-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* D0RIT0S */
+ #chat-messages .id-3905933 .badge-box i.bdg, .id-3905933 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/374/5c04354a10a5f-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Apoena */
+ #chat-messages .id-29992149 .badge-box i.bdg, .id-29992149 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/379/5a7360ad2fe2e-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* sousabiiel :) */
+ #chat-messages .id-4031228 .badge-box i.bdg, .id-4031228 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/380/5a73628539678-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Arunu */
+ #chat-messages .id-30107056 .badge-box i.bdg, .id-30107056 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/381/5a735fd8badc7-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Leandrohp009 */
+ #chat-messages .id-30992159 .badge-box i.bdg, .id-30992159 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/382/5a7361ffd242b-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ＱＵ3 Ｐ3ＤＲ4Ｄ4 */
+ #chat-messages .id-4673269 .badge-box i.bdg, .id-4673269 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/384/5ae04f4218aa0-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Andyzinha */
+ #chat-messages .id-36842528 .badge-box i.bdg, .id-36842528 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/385/5adcf9f228d51-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ŁƗŁ ƤΔΜƤ€Ř2 */
+ #chat-messages .id-30962958 .badge-box i.bdg, .id-30962958 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/387/5add0bba3877c-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Kim Chul */
+ #chat-messages .id-21755082 .badge-box i.bdg, .id-21755082 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/388/5b860037edde3-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* krishnasukaa */
+ #chat-messages .id-36050958 .badge-box i.bdg, .id-36050958 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/2dfd4ecd9c7d96bb8e83e6428cada2c8?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Cupcakei */
+ #chat-messages .id-3708021 .badge-box i.bdg, .id-3708021 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/390/5ae4b4c72ca36-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ☥ ANJINHO TV ☥ */
+ #chat-messages .id-32291773 .badge-box i.bdg, .id-32291773 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/2ca3c99392cf2791f03650c3adf42fef?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* YEZZY */
+ #chat-messages .id-33479737 .badge-box i.bdg, .id-33479737 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/2774a3d5e9c498ffafc1baf233fad320?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* WiredD */
+ #chat-messages .id-24234242 .badge-box i.bdg, .id-24234242 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/013ace7827fbbf5ffe9b805c49b1e11a?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ♛♰Ҝҽѵӣ♰♛ */
+ #chat-messages .id-4733063 .badge-box i.bdg, .id-4733063 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/397/5b453dc94e40f-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* OCEAN_X */
+ #chat-messages .id-5887115 .badge-box i.bdg, .id-5887115 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/398/5b61f99f63bc9-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Coronel Silver */
+ #chat-messages .id-0247 .badge-box i.bdg, .id-0247 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/401/5b5fcf6164f95-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* lil xanax */
+ #chat-messages .id-866897 .badge-box i.bdg, .id-866897 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/402/5b611ec721a4d-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* .Vinnycius - Este é você */
+ #chat-messages .id-23299266 .badge-box i.bdg, .id-23299266 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/403/5b63347ce4e78-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* TemerGOD */
+ #chat-messages .id-6148648 .badge-box i.bdg, .id-6148648 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/404/5bda45362eabb-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Bruna_Soares */
+ #chat-messages .id-4758109 .badge-box i.bdg, .id-4758109 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/405/5b6a65b85dd91-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Areba */
+ #chat-messages .id-3466367 .badge-box i.bdg, .id-3466367 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/406/5b945a2a2bd6a-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Burkyst */
+ #chat-messages .id-20574971 .badge-box i.bdg, .id-20574971 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/407/5be9b2ab2c39b-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* thgox */
+ #chat-messages .id-4243770 .badge-box i.bdg, .id-4243770 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/408/5b7efdd83057a-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Tagevaldo */
+ #chat-messages .id-4385842 .badge-box i.bdg, .id-4385842 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/409/5b7cc434f0628-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* DATABASE */
+ #chat-messages .id-3926149 .badge-box i.bdg, .id-3926149 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/bfefe7e3071e7a33a3b6178cb6cd7f3a?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Shau */
+ #chat-messages .id-3992515 .badge-box i.bdg, .id-3992515 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/411/5b7f28caaf470-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Naths2luna */
+ #chat-messages .id-13490254 .badge-box i.bdg, .id-13490254 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/413/5b885907b764b-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Kenan */
+ #chat-messages .id-3626941 .badge-box i.bdg, .id-3626941 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/414/5b818d7c67c57-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* frostu */
+ #chat-messages .id-3998944 .badge-box i.bdg, .id-3998944 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/416/5b9ae58f494f3-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* - 미나 ❣ */
+ #chat-messages .id-38741985 .badge-box i.bdg, .id-38741985 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/417/5b81bf4e2e733-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* nNosapo */
+ #chat-messages .id-30563634 .badge-box i.bdg, .id-30563634 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/418/5b82e315ed4cf-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Theodore Jasper */
+ #chat-messages .id-14626270 .badge-box i.bdg, .id-14626270 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/419/5b82e65150ef2-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* AlexChargs */
+ #chat-messages .id-15968685 .badge-box i.bdg, .id-15968685 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/420/5b89d37e5ded9-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Aytax */
+ #chat-messages .id-5175148 .badge-box i.bdg, .id-5175148 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/421/5b84da8b17359-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* MY4Z */
+ #chat-messages .id-35183292 .badge-box i.bdg, .id-35183292 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/422/5ba675f171619-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Rainoldo */
+ #chat-messages .id-3045384 .badge-box i.bdg, .id-3045384 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/423/5b8c0493aa9c3-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* RicardoS */
+ #chat-messages .id-5336478 .badge-box i.bdg, .id-5336478 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/424/5b8e85ad3571c-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Pao De Pesadelo */
+ #chat-messages .id-3788214 .badge-box i.bdg, .id-3788214 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/a20bf0663c01c8e039e249e96fa211fb?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* bluberry */
+ #chat-messages .id-33369539 .badge-box i.bdg, .id-33369539 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/3ce1868c6d1c30ecfc4a0fddc36bff52?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Smygou */
+ #chat-messages .id-3548312 .badge-box i.bdg, .id-3548312 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/427/5b8ea18250a7e-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Slaugord */
+ #chat-messages .id-4591828 .badge-box i.bdg, .id-4591828 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/429/5b8ed206751f0-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* País Da Europa */
+ #chat-messages .id-4178788 .badge-box i.bdg, .id-4178788 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/430/5bd4c1dfa2447-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Mary Wincchester */
+ #chat-messages .id-5346070 .badge-box i.bdg, .id-5346070 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/bb4043abab635f2e823a1111e9d4bcf0?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Wellington Hrist */
+ #chat-messages .id-6473352 .badge-box i.bdg, .id-6473352 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/620ab05e310a726e125db0801754becc?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Smith Jonny */
+ #chat-messages .id-15050640 .badge-box i.bdg, .id-15050640 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/0c479cd6da6d630b2a4f9b2108c9facc?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Sid */
+ #chat-messages .id-5288871 .badge-box i.bdg, .id-5288871 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/436/5b99b8c0559d4-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Caipira */
+ #chat-messages .id-3575887 .badge-box i.bdg, .id-3575887 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/437/5b9ac6ed16a82-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Titinha */
+ #chat-messages .id-27852493 .badge-box i.bdg, .id-27852493 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/438/5ba90826a1b39-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* guilhermevl4i20 */
+ #chat-messages .id-5120496 .badge-box i.bdg, .id-5120496 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/1f27576deed5838d4d4f375d72510747?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* raphaeumon */
+ #chat-messages .id-11 .badge-box i.bdg, .id-11 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/b3333a9ff0891d283adc5706eca1c327?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* [TRAP]Zero */
+ #chat-messages .id-4229754 .badge-box i.bdg, .id-4229754 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/1875f806025f1444502b17b9633dc566?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* supamdennis */
+ #chat-messages .id-39742931 .badge-box i.bdg, .id-39742931 .no-badge i {
+     background-image: url(https://secure.gravatar.com/avatar/e71d4ac90302a27ea897576e086f66ee?s=96&d=mm&r=g);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* s e n s i t i v e 不同 */
+ #chat-messages .id-3851223 .badge-box i.bdg, .id-3851223 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/38a097f0d566b0fe32955c4bb178aca8?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Suco de Pistola */
+ #chat-messages .id-5896399 .badge-box i.bdg, .id-5896399 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/444/5bb27f5c4700b-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* supamdennis */
+ #chat-messages .id-39742931 .badge-box i.bdg, .id-39742931 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/445/5bb189a157825-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* SpankaCranio */
+ #chat-messages .id-3954979 .badge-box i.bdg, .id-3954979 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/421047625a6506f24f76db683a96f703?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* iTheo9 */
+ #chat-messages .id-40391061 .badge-box i.bdg, .id-40391061 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/449/5bb786a0aea75-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* ceciliasilval */
+ #chat-messages .id-14936676 .badge-box i.bdg, .id-14936676 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/451/5bbd611132e28-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -Adriana- */
+ #chat-messages .id-4639897 .badge-box i.bdg, .id-4639897 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/ef6db9b6a7fcc4da9659412a60e19403?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* T-Witch-S */
+ #chat-messages .id-3655442 .badge-box i.bdg, .id-3655442 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/1c5a0ec5904b353e6bde19b4457db80d?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* vanstar */
+ #chat-messages .id-40729503 .badge-box i.bdg, .id-40729503 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/445/5bb189a157825-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* JoarezDaTEKPIX */
+ #chat-messages .id-4387655 .badge-box i.bdg, .id-4387655 .no-badge i {
+     background-image: url(https://secure.gravatar.com/avatar/f44470e3e73d8840accde28f7803fad3?s=96&d=mm&r=g);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* MIB Eventos */
+ #chat-messages .id-40955957 .badge-box i.bdg, .id-40955957 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/c7bacd57eb9e385795df1319972603e9?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* O-Sem-Nick */
+ #chat-messages .id-3748602 .badge-box i.bdg, .id-3748602 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/aca95bd1e497b3d0d91645cb39c9ee99?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* FyOtti */
+ #chat-messages .id-41126160 .badge-box i.bdg, .id-41126160 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/458/5bcf087f5e11f-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Winona - Ryder */
+ #chat-messages .id-16440800 .badge-box i.bdg, .id-16440800 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/459/5be785dc06dac-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Chad Kensington */
+ #chat-messages .id-41187018 .badge-box i.bdg, .id-41187018 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/794bc180402146536cf43c4b90369459?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Mary Winchester */
+ #chat-messages .id-5346070 .badge-box i.bdg, .id-5346070 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/d5e5b81be38865e024e1d8767b10af48?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Mr. Mtos */
+ #chat-messages .id-32380050 .badge-box i.bdg, .id-32380050 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/462/5bd8d21266997-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Maside */
+ #chat-messages .id-2974552 .badge-box i.bdg, .id-2974552 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/463/5c1599fb4d159-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* M7MUD */
+ #chat-messages .id-25601551 .badge-box i.bdg, .id-25601551 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/7a904bdb51346a4dcba03555e3467786?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Mc cirilo */
+ #chat-messages .id-6413862 .badge-box i.bdg, .id-6413862 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/27de3f8acb9369b0afa65968a07e3656?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* MyNameIsPão */
+ #chat-messages .id-22611297 .badge-box i.bdg, .id-22611297 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/466/5bee9b25bb33a-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* V1N3 */
+ #chat-messages .id-19168449 .badge-box i.bdg, .id-19168449 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/bd90c7e9e4937bfc82d22a614c91bb19?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* djkorekt */
+ #chat-messages .id-5365314 .badge-box i.bdg, .id-5365314 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/22623ae7fc05cd363b054a7343ac9b06?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* milk milk */
+ #chat-messages .id-3012 .badge-box i.bdg, .id-3012 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/cd75369c8d688f455afc4ed4d300f2e4?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -&gt;
+♫Mc Rock☠&lt;
+- */
+ #chat-messages .id-21795209 .badge-box i.bdg, .id-21795209 .no-badge i {
+     background-image: url(https://secure.gravatar.com/avatar/d4428c4556dcb3256ed9336c2d9da11d?s=96&d=mm&r=g);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Vivi Granger */
+ #chat-messages .id-4506860 .badge-box i.bdg, .id-4506860 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/472/5c6c090850431-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Ðokz */
+ #chat-messages .id-39006170 .badge-box i.bdg, .id-39006170 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/176eb2fb8c2b32d9bbd4de047b06bd4b?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Corinzika */
+ #chat-messages .id-41134463 .badge-box i.bdg, .id-41134463 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/6b2c7d483e4a4c2dd1a6fa9ef94afedc?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* LuRyo */
+ #chat-messages .id-42189473 .badge-box i.bdg, .id-42189473 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/477/5c337e763a37b-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Math.M */
+ #chat-messages .id-6361228 .badge-box i.bdg, .id-6361228 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/1db4e4bf077fb352521fc7a4d9a9e9fa?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Wellx37 */
+ #chat-messages .id-23822530 .badge-box i.bdg, .id-23822530 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/479/5c3a5dd5a249e-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Rodrigo Buson */
+ #chat-messages .id-35354879 .badge-box i.bdg, .id-35354879 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/157d3c470794d495af970091bb9ad46e?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* elias_1 */
+ #chat-messages .id-1 .badge-box i.bdg, .id-1 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/2e97d2cd004cbffcc435ba2431cadc61?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Gabríel */
+ #chat-messages .id-43103070 .badge-box i.bdg, .id-43103070 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/51ea28d581bfcff7cd6d8144c128718b?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* GustavoYTDestroyer */
+ #chat-messages .id-37093948 .badge-box i.bdg, .id-37093948 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/9f07af930cffc833ace30574aadba66f?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* SharkZoe */
+ #chat-messages .id-43408754 .badge-box i.bdg, .id-43408754 .no-badge i {
+     background-image: url(https://secure.gravatar.com/avatar/fb7122579d87842afc1cd798b76a66e3?s=96&d=mm&r=g);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* -Sagaz ♫♨ */
+ #chat-messages .id-10480247 .badge-box i.bdg, .id-10480247 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/39bd2a2a64b2e809d5cc9aa3504604d9?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Vazafirst */
+ #chat-messages .id-43797764 .badge-box i.bdg, .id-43797764 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/4639de76cea4f2425bb9489e3e49c165?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* mer3nda */
+ #chat-messages .id-8 .badge-box i.bdg, .id-8 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/69fbd19e5b7f3017c7ce104cc68955e3?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* OIDaniel */
+ #chat-messages .id-24226993 .badge-box i.bdg, .id-24226993 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/488/5d13d08097fcf-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Penal */
+ #chat-messages .id-46298277 .badge-box i.bdg, .id-46298277 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/490/5d6c30264f28d-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* Fake */
+ #chat-messages .id-33479737 .badge-box i.bdg, .id-33479737 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/491/5d6c665d400e3-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* 8042566 */
+ #chat-messages .id-8042566 .badge-box i.bdg, .id-8042566 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/492/5d6c973bee1f0-bpfull.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* minhapika */
+ #chat-messages .id-7777776 .badge-box i.bdg, .id-7777776 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/a1300bc8f71b308d1b69706c7540452d?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* LilypadOfCluck */
+ #chat-messages .id-32291773 .badge-box i.bdg, .id-32291773 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/1686a9ce2ed297658e68a43b7affbfb0?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* LilypadOfCluck */
+ #chat-messages .id-32291773 .badge-box i.bdg, .id-32291773 .no-badge i {
+     background-image: url(https://moveitbrasil.tk/wp-content/uploads/avatars/495/5d8d9711696dc-bpfull.png);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* N E C T A R */
+ #chat-messages .id-48256578 .badge-box i.bdg, .id-48256578 .no-badge i {
+     background-image: url(//www.gravatar.com/avatar/5947ff245bf546262b2fe97c39c23f19?s=96&#038;
+    r=g&#038;
+    d=mm);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     border: 0px solid #444A59;
+     border-radius: 0;
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+/* nome-padrao */
+ #chat-messages .id-00000000 .badge-box i.bdg {
+     background-image: url(#gravatar-padrao);
+     background-size: cover;
+     width: 100%;
+     height: 100%;
+     background-position: initial;
+}
+ 
+ 
+/* GIFs VIPs */
+																																																																																																																																																																																																																																																																																																																																																																																																																																											
+/* BGchat VIPs */
+ 
+ 
