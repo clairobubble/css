@@ -6,8 +6,8 @@
 
 /* Move It Bot */
  #chat-messages .id-5394376 .badge-box:hover ,
-/* Feluz */
- #chat-messages .id-3839549 .badge-box:hover ,
+/* starswithnames */
+ #chat-messages .id-48536556 .badge-box:hover ,
 /* Shadow Slayer */
  #chat-messages .id-4080795 .badge-box:hover ,
 /* -Branca de Neve- */
@@ -292,11 +292,9 @@
      height: 100%;
      background-position: initial;
 }
-/* Feluz */
- #chat-messages .id-3839549 .badge-box i.bdg, .id-3839549 .no-badge i {
-     background-image: url(//www.gravatar.com/avatar/681557ed224ed2027533bd41f38faac7?s=96&#038;
-    r=g&#038;
-    d=mm);
+/* starwithnames */
+ #chat-messages .id-48536556 .badge-box i.bdg, .id-48536556 .no-badge i {
+     background-image: url("https://cdn.discordapp.com/attachments/567455438178746425/662654760918319104/ezgif.com-crop_8.gif");
      background-size: cover;
      width: 100%;
      height: 100%;
