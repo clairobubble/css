@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import "https://moveitbrasil.tk/custom-imports/";
+@import url('https://raw.githack.com/clairobubble/css/master/css/custom.css');
 @-webkit-keyframes fadeIn{
     0%{
         opacity:0
